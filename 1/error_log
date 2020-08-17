@@ -1,1 +1,0 @@
-[09-May-2017 07:52:12] PHP Fatal error:  func_get_args(): Can't be used as a function parameter in /home5/syowiak1/public_html/new/wp-content/plugins/woocommerce/includes/class-wc-install.php on line 965
